@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Ascentcoin
+Comment=Ascentcoin P2P Cryptocurrency
+Comment[fr]=Ascentcoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Ascentcoin, eşten eşe kriptografik sanal para birimi
+Comment[es]=Ascentcoin, una criptomoneda P2P
+Exec=/usr/bin/Ascentcoin-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/bitcoin80.xpm
+MimeType=x-scheme-handler/Ascentcoin;
+Categories=Office;

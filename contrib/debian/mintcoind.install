@@ -1,0 +1,2 @@
+debian/bin/Ascentcoind usr/bin
+src/Ascentcoind usr/lib/Ascentcoin
